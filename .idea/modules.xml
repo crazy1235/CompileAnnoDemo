@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompileAnnoDemo.iml" filepath="$PROJECT_DIR$/CompileAnnoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanno/jackanno.iml" filepath="$PROJECT_DIR$/jackanno/jackanno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanno-annotations/jackanno-annotations.iml" filepath="$PROJECT_DIR$/jackanno-annotations/jackanno-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanno-compiler/jackanno-compiler.iml" filepath="$PROJECT_DIR$/jackanno-compiler/jackanno-compiler.iml" />
+    </modules>
+  </component>
+</project>
